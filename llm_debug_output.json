@@ -1,0 +1,35 @@
+[
+  {
+    "abstract_id": 1,
+    "raw_output": "",
+    "parsed_results": {
+      "sample_size": "no",
+      "placebo": "no",
+      "blinding": "no",
+      "composite_outcome": "no",
+      "primary_outcome_events": "no"
+    }
+  },
+  {
+    "abstract_id": 2,
+    "raw_output": "",
+    "parsed_results": {
+      "sample_size": "no",
+      "placebo": "no",
+      "blinding": "no",
+      "composite_outcome": "no",
+      "primary_outcome_events": "no"
+    }
+  },
+  {
+    "abstract_id": 3,
+    "raw_output": "",
+    "parsed_results": {
+      "sample_size": "no",
+      "placebo": "no",
+      "blinding": "no",
+      "composite_outcome": "no",
+      "primary_outcome_events": "no"
+    }
+  }
+]

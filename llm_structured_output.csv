@@ -1,0 +1,4 @@
+abstract_id,timestamp,abstract,placebo_detected,blinding_detected,sample_size_detected,composite_outcome_detected,primary_outcome_events_detected,total_biases,has_any_bias
+1,2025-07-17 14:17:41,"Importance:Fewer than 5% of patients labeled with a penicillin allergy are truly allergic. The standard of care to remove the penicillin allergy label in adults is specialized testing involving prick ...",no,no,no,no,no,0,no
+2,2025-07-17 14:17:44,"Background:Among infants with isolated cleft palate, whether primary surgery at 6 months of age is more beneficial than surgery at 12 months of age with respect to speech outcomes, hearing outcomes, d...",no,no,no,no,no,0,no
+3,2025-07-17 14:17:46,"Background:Concizumab is an anti-tissue factor pathway inhibitor monoclonal antibody designed to achieve hemostasis in all hemophilia types, with subcutaneous administration. A previous trial of conci...",no,no,no,no,no,0,no
