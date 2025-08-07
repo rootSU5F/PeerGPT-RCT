@@ -1,0 +1,2576 @@
+[
+  {
+    "id": "001",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37459086",
+    "labels": {
+      "duration_followup": "not_mentioned",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "002",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37646677",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "government",
+      "age_generalizability": "not_applicable",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "003",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37646676",
+    "labels": {
+      "duration_followup": "not_mentioned",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "industry",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "004",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37643788",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "005",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37620015",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "006",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37606673",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "007",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37606672",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "008",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37581673",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": "female_only",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "009",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37581672",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "female_only",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "010",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37581670",
+    "labels": {
+      "duration_followup": "not_mentioned",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "011",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37567200",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "012",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37549393",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "government",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "013",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37524101",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "government",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "014",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37516125",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<1_year",
+      "funding": "industry",
+      "age_generalizability": "age<70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "015",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37486775",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "government",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "016",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37466280",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "government",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "017",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37460756",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "018",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37423231",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "industry",
+      "age_generalizability": "age<70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "019",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37385279",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "industry",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "020",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37385278",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "industry",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "021",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37385275",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "industry",
+      "age_generalizability": "age<70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "022",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37326325",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "023",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37326323",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "024",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37230105",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "government",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "025",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37216958",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "government",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37182534",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "027",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37127047",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "ngo",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "028",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37127045",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "ngo",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "029",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37116527",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "030",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37100061",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "government",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "031",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37088096",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "government",
+      "age_generalizability": "age<70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "032",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37021692",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "033",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37622677",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "ngo",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "034",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37754283",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "035",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37748181",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "industry",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "036",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37738676",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "037",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37734752",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "industry",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "038",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37733308",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "039",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37709999",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "040",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37702442",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "041",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37698564",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "042",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37696667",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "043",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37695601",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "044",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37668619",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "045",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37640859",
+    "labels": {
+      "duration_followup": "not_mentioned",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "046",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37634150",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "047",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37632463",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "049",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37591292",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "industry",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "050",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36623234",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "051",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38297916",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "052",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38295131",
+    "labels": {
+      "duration_followup": "not_mentioned",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "053",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38291297",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "054",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38267108",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "055",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38265644",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "government",
+      "age_generalizability": "specific_group",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "056",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38261535",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "industry",
+      "age_generalizability": "specific_group",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "057",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38236137",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "government",
+      "age_generalizability": "specific_group",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "058",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38235741",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "general_population",
+      "sex_generalizability": "balanced",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "059",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38233068",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "government",
+      "age_generalizability": "general_population",
+      "sex_generalizability": "balanced",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "060",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38231623",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "private_foundation",
+      "age_generalizability": "specific_group",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "061",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38231622",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "062",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38231621",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "063",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38231501",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "064",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38228914",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "065",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38228913",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "066",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38227034",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<1_year",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "067",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38227032",
+    "labels": {
+      "duration_followup": "not_mentioned",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "068",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38226445",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "069",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38224710",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "070",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38224591",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "071",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38197817",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "philanthropy",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "072",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38190339",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "073",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38190338",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "074",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38189778",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "industry",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "075",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38177851",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "076",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38170601",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "077",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38169489",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "philanthropy",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "078",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38169488",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "philanthropy",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "079",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38165408",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "government",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "080",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38163378",
+    "labels": {
+      "duration_followup": "not_mentioned",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "081",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38163376",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "082",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38131615",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "083",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38128556",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "084",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38110580",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "085",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38104575",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "086",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38096892",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "087",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38084850",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "088",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38078870",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "089",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38071986",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "090",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38059896",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "091",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38044236",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "092",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38042725",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "093",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38040019",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "094",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38008651",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "095",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38007377",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "096",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38006892",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "097",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37991745",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "098",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37982593",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "female_only",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "099",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37980922",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "100",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39887698",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "101",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39880462",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "102",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39879069",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "103",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39878993",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "104",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39878968",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "105",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39869911",
+    "labels": {
+      "duration_followup": "not_mentioned",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "ngo",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "106",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39869330",
+    "labels": {
+      "duration_followup": "<30_days",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "107",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39863372",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "mixed",
+      "age_generalizability": "age<70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "108",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39863370",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "109",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39843169",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "110",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39826968",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "111",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39818225",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "112",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39814476",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "113",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39814420",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "114",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39813642",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "government",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "115",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39804681",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "116",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39794616",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "117",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39788611",
+    "labels": {
+      "duration_followup": "not_mentioned",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "118",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39779922",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "119",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39778170",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<1_year",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "120",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39775042",
+    "labels": {
+      "duration_followup": "<30_days",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "121",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39775039",
+    "labels": {
+      "duration_followup": "not_mentioned",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "122",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39775037",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "123",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39753963",
+    "labels": {
+      "duration_followup": "not_mentioned",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "124",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39753962",
+    "labels": {
+      "duration_followup": "not_mentioned",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "125",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39747684",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "126",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39709979",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "ngo",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "127",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39696829",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "industry",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "128",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39689849",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "129",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39688288",
+    "labels": {
+      "duration_followup": "not_mentioned",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "130",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39680474",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "131",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39667380",
+    "labels": {
+      "duration_followup": "<30_days",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "government",
+      "age_generalizability": "age<70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "132",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39665701",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "industry",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "133",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39661106",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "134",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39638769",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "135",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39637881",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "industry",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "balanced",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "136",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39602474",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "137",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39602290",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "138",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39602173",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "139",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39586616",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "140",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39576722",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "industry",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "141",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39555826",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "industry",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "142",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39551132",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "143",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39550720",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "144",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39549719",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "industry",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "145",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39521016",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "146",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39520455",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "industry",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "147",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39511836",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "148",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39503651",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "149",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39503150",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "150",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39497468",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "151",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39490700",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "152",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39480380",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "industry",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "153",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39480221",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "mixed",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "154",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39480216",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "155",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39475399",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "156",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39471883",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "industry",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "157",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39471309",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "industry",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "158",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39469760",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "159",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39468380",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "160",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39466903",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "industry",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "161",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39455729",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<1_year",
+      "funding": "industry",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "162",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39434431",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "163",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39433921",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "164",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39420528",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "165",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39389071",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "166",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39385046",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "industry",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "167",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39375869",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<1_year",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "168",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39357816",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "169",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39352340",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "170",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39342512",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "171",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39340828",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "172",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39327797",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "173",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39305340",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "<1_year",
+      "funding": "government",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "174",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39265595",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<1_year",
+      "funding": "government",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "175",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39243794",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "government",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "176",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39225267",
+    "labels": {
+      "duration_followup": "not_mentioned",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "industry",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "177",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39225259",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "178",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39217444",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": ">=50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "179",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39216096",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "180",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39215996",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "181",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39213194",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "182",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38976448",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "183",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38940439",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "not_mentioned",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "184",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40019152",
+    "labels": {
+      "duration_followup": "not_mentioned",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "185",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40009358",
+    "labels": {
+      "duration_followup": "not_mentioned",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "industry",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "186",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39996602",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "187",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39993822",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "government",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "188",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39989365",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "189",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39972237",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "190",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39970397",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "mixed",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "191",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39969129",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "192",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39960062",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "<30_days",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "193",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39955119",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">30_days",
+      "funding": "government",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "194",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39933757",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": "not_mentioned",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "195",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39932787",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "196",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39920395",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  },
+  {
+    "id": "197",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39913634",
+    "labels": {
+      "duration_followup": "<1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "industry",
+      "age_generalizability": "not_mentioned",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "198",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39909681",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "industry",
+      "age_generalizability": "age>=70",
+      "sex_generalizability": "not_mentioned",
+      "intention_to_treat": "yes"
+    }
+  },
+  {
+    "id": "199",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39908026",
+    "labels": {
+      "duration_followup": ">=1_year",
+      "multicentre": "yes",
+      "timeline_primary_outcome": ">=1_year",
+      "funding": "not_mentioned",
+      "age_generalizability": "age<70",
+      "sex_generalizability": "<50%_female",
+      "intention_to_treat": "not_mentioned"
+    }
+  }
+]

@@ -1,0 +1,9 @@
+streamlit==1.35.0
+Cython
+spacy==3.7.2
+pandas==2.2.2
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+langchain-groq==0.1.9
+langchain==0.2.16
+python-dotenv==1.0.1
+typing-extensions==4.12.2
